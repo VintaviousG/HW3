@@ -72,6 +72,6 @@ and ensures that disconnected users are removed from the users array.
 
 // Starting the server and listening on the specified port
 server.listen(PORT, () => {
-  console.log("listening on PORT: ", PORT);
+  console.log("Listening on PORT: ", PORT);
 });
 
